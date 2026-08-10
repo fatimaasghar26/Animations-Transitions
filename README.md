@@ -52,8 +52,7 @@ Animations were used to improve the user experience without overwhelming the int
 
 ## Author
 
-**Name:** *Your Name*
+**Name:** *Fatima Asghar*
 
 **Course:** *Web Development*
 
-**Date:** July 2026
